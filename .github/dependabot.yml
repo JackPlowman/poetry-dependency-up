@@ -32,7 +32,7 @@ updates:
       timezone: "Europe/London"
     target-branch: "main"
     groups:
-      github-actions:
+      rust:
         patterns:
           - "*"
         update-types:
