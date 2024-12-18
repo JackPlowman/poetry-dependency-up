@@ -6,7 +6,7 @@ If you discover a security vulnerability within this project, please report it t
 
 To report a vulnerability:
 
-1. Go to the [Security tab](https://github.com/JackPlowman/source_scan/security) of the repository.
+1. Go to the [Security tab](https://github.com/JackPlowman/depup/security) of the repository.
 2. Click on "Report a vulnerability".
 3. Follow the instructions to provide details about the vulnerability.
 
